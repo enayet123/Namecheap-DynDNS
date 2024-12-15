@@ -2,7 +2,7 @@
 
 A simple containerised dynamic DNS updater for Namecheap
 
-This application utilises Namecheaps DynDNS REST API
+[Namecheap-DynDNS](https://github.com/enayet123/Namecheap-DynDNS) utilises Namecheaps DynDNS REST API
 
 ## Installation/Setup
 
