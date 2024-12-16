@@ -65,3 +65,9 @@ All variables are optional however providing none will result in the application
 | `DYNAMIC_DNS_PASSWORD`      | Your namecheap DynDNS password found under Advanced DNS                                              |
 | `SUBDOMAINS`                | A list of subdomains to update                                                                       |
 | `CHECK_INTERVAL_SECONDS`    | The time interval between IP address checks (optional)                                               |
+
+## Disclaimer 
+
+This application is provided "as is" without any warranties or guarantees of any kind, either express or implied. The use of this application is at your own risk. The developers assume no liability for any damages, losses, or issues, including but not limited to data loss, system malfunctions, or financial impacts, that may arise from the use or misuse of this application.
+
+By using this application, you agree to take full responsibility for any outcomes and understand that the developers are not liable for any consequences resulting from its use. Always test the application in a controlled environment before deploying it in production.
