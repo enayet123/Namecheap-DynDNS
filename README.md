@@ -23,7 +23,7 @@ services:
     environment:
       - DOMAIN=your.domain.com
       - DYNAMIC_DNS_PASSWORD=password
-      - SUBDOMAINS=subdomain,portal,admin
+      - SUBDOMAINS=@,subdomain,portal,admin # '@' updates the root domain
       - CHECK_INTERVAL_SECONDS=3600
 ```
 
